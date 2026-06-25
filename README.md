@@ -545,16 +545,15 @@ Proyek ini dibuat untuk keperluan **Tugas Akhir / Skripsi** pada:
 
 - **Program Studi:** Teknik Informatika
 - **Universitas:** Universitas Muhammadiyah Jakarta
-- **Tahun:** 2024
+- **Tahun:** 2025
 
 ---
 
 ## 👨‍💻 Developer
 
 **Nama Mahasiswa**
-- GitHub: [@your-github](https://github.com/your-github)
-- Email: your-email@example.com
-- NIM: XXXXXXXXXX
+- GitHub: [@your-github](https://github.com/abyansdq)
+- Email: mabyanshidqi@gmail.com
 
 ---
 
